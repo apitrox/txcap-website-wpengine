@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:41:13	167/167	---MCZ	200	added ('OK')	text/plain	etag:W/%2260afbf8d-111%22	http://txcap.org/robots.txt		(from )
+13:41:13	0/0	---MC-	301	error ('Moved%20Permanently')	text/html	date:Thu,%2023%20Oct%202025%2018:41:14%20GMT	http://txcap.org/	C:/My%20Web%20Sites/TxCAP/txcap.org/index.html	(from )

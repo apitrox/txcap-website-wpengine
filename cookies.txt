@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.txcap.org	TRUE	/	FALSE	1999999999	__cf_bm	_eCVj8AkL0D8r_y9rv0Y0dK2KzcCGJcoOYrgIKIeUQw-1761244988-1.0.1.1-hLmmiwQ8BFQ.LLKTqhcDb4iWj1k01mRfdCMpWuiqDCXMsT61i7iKTtA5MmjJb.Vlbn22VSRAs4qJ01CVxmfbPtExngKSIlhrYcMjh3nvzgg
+txcap.org	TRUE	/	FALSE	1999999999	SameSite	None
+
